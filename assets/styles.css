@@ -1,0 +1,52 @@
+body {
+    margin:0;
+    font-family: 'Oswald', sans-serif;
+}
+#MenuTopo {
+    display:flex;
+    background-color: black;
+    margin: 0;
+}
+#MenuTopo li {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+}
+#MenuTopo li:first-child {
+    margin-right: auto;
+}
+.Local1 {
+display: flex;
+height: 20vh;
+background-color:rgb(192, 192, 192);
+}
+.central {
+margin: auto;
+text-align: center;
+}
+.Local2 {
+    display: flex;
+    background-color: white;
+    height: 33vh
+}
+.Local3 {
+    display: flex;
+    background-color: rgb(192, 192, 192);
+    height: 33vh
+}
+.Local4 {
+    display: flex;
+    background-color: white;
+    height: 33vh
+}
+.Local5 {
+    display: flex;
+    background-color: rgb(192, 192, 192);
+    height: 33vh
+}
+.Foto {
+    width: 15vw;
+    height: 15vw;
+    padding-left: 15px;
+}
